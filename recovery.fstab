@@ -1,5 +1,5 @@
 #
-#fstab file by lopestom for UMIDIGI Power 3_EEA_V1.1_20200116
+#fstab file by lopestom for UMIDIGI_Power_3.E_V1.2_20200328
 #
 /system		          ext4	       /dev/block/mapper/system      flags=backup=1;display="System ext4";wipeingui
 /vendor             ext4        /dev/block/mapper/vendor      flags=backup=1;display="Vendor ext4";wipeingui
