@@ -15,9 +15,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+########### DEPRECATED ###########
 #add_lunch_combo omni_X30-userdebug
-add_lunch_combo omni_Power_3-eng
+#add_lunch_combo omni_Power_3-eng
 #add_brunch_combo omni_X30-eng
 #COMMON_LUNCH_CHOICES omni_X30-userdebug
-COMMON_LUNCH_CHOICES omni_Power_3-eng
+#COMMON_LUNCH_CHOICES omni_Power_3-eng
