@@ -1,0 +1,6 @@
+service init_thh_service /vendor/bin/init_thh startload
+    user root
+    group root
+    disabled
+    oneshot
+    seclabel u:r:recovery:s0
