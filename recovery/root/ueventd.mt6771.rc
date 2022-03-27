@@ -142,6 +142,3 @@
 
 #MTK In-House TEE
 /dev/ttyACM0              0660   radio      radio
-
-#TrustKernel TEE
-/dev/tkcoredrv            0666   root       root
